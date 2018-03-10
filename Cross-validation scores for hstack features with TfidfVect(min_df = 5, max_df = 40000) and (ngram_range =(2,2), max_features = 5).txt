@@ -1,9 +1,0 @@
-logRegression with alpha-parameters founded by GridSearchCV
-toxic {'C': 1.0} 0.9691690470389334
-severe_toxic {'C': 1.0} 0.9831332725798639
-obscene {'C': 1.0} 0.9837549778127486
-threat {'C': 10.0} 0.9834721768617835
-insult {'C': 1.0} 0.9752538138516554
-identity_hate {'C': 1.0} 0.9722056537508215
-
-Mean of scores for all classes 0.9778314903159676
