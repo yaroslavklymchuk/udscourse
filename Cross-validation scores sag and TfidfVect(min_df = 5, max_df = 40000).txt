@@ -1,9 +1,0 @@
-logRegression with C-parameters founded by GridSearchCV
-toxic {'C': 1.0} 0.9695307870596787
-severe_toxic {'C': 1.0} 0.9851422839633204
-obscene {'C': 1.0} 0.9844710810310291
-threat {'C': 1.0} 0.984207950270494
-insult {'C': 1.0} 0.9759069597647939
-identity_hate {'C': 1.0} 0.9745979542055193
-
-Mean of scores for all classes 0.9789761693824724
