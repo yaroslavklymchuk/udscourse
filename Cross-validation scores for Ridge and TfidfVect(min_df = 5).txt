@@ -1,0 +1,9 @@
+Ridge with alpha-parameters founded by GridSearchCV
+toxic {'alpha': 10.0} 0.9742780118587461
+severe_toxic {'alpha': 100.0} 0.9830769358586391
+obscene {'alpha': 10.0} 0.9881348736379585
+threat {'alpha': 100.0} 0.9849914330974181
+insult {'alpha': 10.0} 0.9806825288637951
+identity_hate {'alpha': 100.0} 0.9720630233951985
+
+Mean of scores for all classes 0.9805378011186258

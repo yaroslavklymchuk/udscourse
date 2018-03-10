@@ -1,0 +1,9 @@
+LogRegression with default penalty and C-parameters founded by GridSearchCV
+toxic {'C': 1.0} 0.9695161963403529
+severe_toxic {'C': 1.0} 0.9849979952676365
+obscene {'C': 1.0} 0.9847705211044023
+threat {'C': 1.0} 0.9801722688618061
+insult {'C': 1.0} 0.9755527916258053
+identity_hate {'C': 1.0} 0.9746802094491783
+
+Mean of scores for all classes 0.9782816637748636
